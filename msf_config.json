@@ -1,0 +1,7 @@
+{
+    "host": "127.0.0.1",
+    "port": 55553,
+    "password": "msf_password",
+    "ssl": true,
+    "timeout": 30
+}
