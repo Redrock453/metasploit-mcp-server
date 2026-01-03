@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "metasploit": {
+            "command": "/home/adam/metasploit-mcp-server/venv/bin/python3",
+            "args": ["/home/adam/metasploit-mcp-server/metasploit_mcp_server.py"]
+        }
+    }
+}
